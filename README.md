@@ -1,2 +1,4 @@
 # WeatherViewer
-Weather viewer application for getting and visualizing grib data for a variety of models
+Weather viewer application for getting and visualizing grib data for a variety of models.
+
+More details TBA.
